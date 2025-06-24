@@ -159,6 +159,6 @@ footer{
   margin: 0px;
   padding: 0px;
 }
-.end{
-  width: 50%;
+footer{
+  flex-wrap: nowrap;
 }
